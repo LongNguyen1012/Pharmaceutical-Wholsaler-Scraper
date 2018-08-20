@@ -1,1 +1,1 @@
-# Pharmaceutical-Wholsaler-Scraper
+# Pharmaceutical-Wholesaler-Scraper
